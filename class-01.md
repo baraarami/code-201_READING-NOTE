@@ -1,88 +1,31 @@
 # HTML Design and Build Websites
 
 
-Before we look at the code used to build
-websites it is important to consider the
-different ways in which people access the web
-and clarify some terminology.
+Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some terminology.
 
 1. Browsers :
-People access websites using
-software called a web browser.
-Popular examples include
-Firefox, Internet Explorer, Safari,
-Chrome, and Opera.
+People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
 
 2. Web Servers :
-When you ask your browser for
-a web page, the request is sent
-across the Internet to a special
-computer known as a web
-server which hosts the website.
+When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.
 
 3. Screen readers :
-Screen readers are programs
-that read out the contents of a
-computer screen to a user. They
-are commonly used by people
-with visual impairments.
+Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
 
 4. Devices :
-People are accessing websites
-on an increasing range of devices
-including desktop computers,
-laptops, tablets, and mobile
-phones. It is important to
-remember that various devices
-have different screen sizes and
-some have faster connections to
-the web than others.
+People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to remember that various devices have different screen sizes and some have faster connections to the web than others.
 
 
 #### All websites use HTML and CSS, but content
-management systems, blogging software, and
-e-commerce platforms often add a few more
-technologies into the mix.
+management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 
 
 # How Pages Use Structure
-Think about the stories you
-read in a newspaper: for each
-story, there will be a headline,
-some text, and possibly some
-images. If the article is a long
-piece, there may be subheadings
-that split the story into separate
-sections or quotes from those
-involved. Structure helps readers
-understand the stories in the
-newspaper.The structure is very similar
-when a news story is viewed
-online (although it may also
-feature audio or video). This is
-illustrated on the right with a
-copy of a newspaper alongside
-the corresponding article on its
-website.
+Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper.The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
 
 
 # Structuring Word Documents
-The use of headings and
-subheadings in any document
-often reflects a hierarchy of
-information. For example, a
-document might start with
-a large heading, followed by
-an introduction or the most
-important information. This might be expanded upon
-under subheadings lower down
-on the page. When using a word
-processor to create a document,
-we separate out the text to give
-it structure. Each topic might
-have a new paragraph, and each
-section can have a heading to
-describe what it covers.
+The use of headings and subheadings in any document often reflects a hierarchy ofinformation. For example, a document might start with a large heading, followed by an introduction or the most important information. This might be expanded upon under subheadings lower down on the page. When using a word processor to create a document, we separate out the text to give it structure. Each topic might have a new paragraph, and each section can have a heading to describe what it covers.
 
 # HTML Describes the Structure of Pages
 
