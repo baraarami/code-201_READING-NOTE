@@ -1,6 +1,5 @@
-# code-201_READING-NOTE
 
- #### This course is taken in **LTUC**
+# This course is taken in **LTUC**
  
 ![LTUC IMAG](https://tse3.mm.bing.net/th?id=OIP.NnKjqMfUo-fisKWU9URw4QHaE5&pid=Api&P=0&w=232&h=154)
 
