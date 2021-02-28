@@ -97,6 +97,164 @@ horizontal rule between sections
 using the (hr /) tag.
 
 
+6. Abb reviations
+(abbr)
+If you use an abbreviation or
+an acronym, then the (abbr)
+element can be used. A title
+attribute on the opening tag is
+used to specify the full term.
+
+![image](https://user-images.githubusercontent.com/79080942/109430268-280a7380-7a09-11eb-9cfb-e9bca262dfde.png)
+
+
+In this section, we will look at how to
+make your web pages more attractive,
+controlling the design of them using CSS.
+
+
+CSS allows you to create rules that specify how the content of
+an element should appear. For example, you can specify that
+the background of the page is cream, all paragraphs should
+appear in gray using the Arial typeface, or that all level one
+headings should be in a blue, italic, Times typeface.
+
+Using External CSS
+1. link
+
+Using Internal CSS
+1. style
+2. CSS Selectors
+
+Declarations are made up of two parts: the properties
+of the element that you want to change, and the values
+of those properties. For example, the font-family
+property sets the choice of font, and the value arial
+specifies Arial as the preferred typeface.
+
+#*CSS rules usually appear in a separate document,
+although they may appear within an HTML page.*
+
+
+
+#### Basic JavaScript Instructions
+1. STATEMENTS
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as *a statement*.
+Statements should end with a semicolon.
+
+2. COMMENTS
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code.
+
+##WHAT IS A VARIABLE?
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables.
+
+4. DATA TYPES
+JavaScript distinguishes between numbers,
+strings, and true or false values known as
+Booleans.
+
+VALUES IN ARRAYS
+Values in an array are accessed as if they are in
+a numbered list. It is important to know that the
+numbering of this list starts at zero (not one).
+
+5. EXPRESSIONS
+An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions.
+1. EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE.
+2.EXPRESSIONS THAT USE TWO OR
+MORE VALUES TO RETURN A
+SINGLE VALUE.
+
+![image](https://user-images.githubusercontent.com/79080942/109431051-3490cb00-7a0d-11eb-8e31-f339f1eeb016.png)
+
+
+Looking at a flowchart (for all but the most basic scripts),
+the code can take more than one path, which means the
+browser runs different code in different situations. In this
+chapter, you will learn how to create and control the flow of
+data in your scripts to handle different situations.
+
+
+To determine which path to take, programmers often
+rely upon the following three concepts:
+1. EVALUATIONS
+You can analyze values in
+your scripts to determine
+whether or note they
+match expected results.
+9 DECISIONS & LOOPS
+2. DECISIONS
+Using the results of
+evaluations, you can
+decide which path your
+script should go down.
+3. LOOPS
+There are also many
+occasions where you will
+want to perform the same
+set of steps repeatedly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
