@@ -23,7 +23,7 @@ Contant | Page number  |
 ---------| ----------- |
 Class1 | [PAGE1](https://baraarami.github.io/code-201_READING-NOTE/class-01)| 
 Class2 | [PAGE2](https://baraarami.github.io/code-201_READING-NOTE/class-02)|
-Class3 |[PAGE3]|   
+Class3 | [PAGE3](https://baraarami.github.io/code-201_READING-NOTE/class-03)|   
 Class4 |[PAGE4]|   
 Class5 |[PAGE5]|   
 Class6 |[PAGE6]|  
