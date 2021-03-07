@@ -27,7 +27,7 @@ Class3 | [PAGE3](https://baraarami.github.io/code-201_READING-NOTE/class-03)|
 Class4 | [PAGE4](https://baraarami.github.io/code-201_READING-NOTE/class-04)|   
 Class5 | [PAGE5](https://baraarami.github.io/code-201_READING-NOTE/class-05)|   
 Class6 | [PAGE6](https://baraarami.github.io/code-201_READING-NOTE/class-06)|  
-Class7 |[PAGE7]|  
+Class7 | [PAGE7](https://baraarami.github.io/code-201_READING-NOTE/class-07)|  
 Class8 |[PAGE8]|   
 Class9 |[PAGE9]|   
 Class10|[PAGE10]|  
