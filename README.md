@@ -31,7 +31,7 @@ Class7 | [PAGE7](https://baraarami.github.io/code-201_READING-NOTE/class-07)|
 Class8 | [PAGE8](https://baraarami.github.io/code-201_READING-NOTE/class-08)|   
 Class9 | [PAGE9](https://baraarami.github.io/code-201_READING-NOTE/class-09)|   
 Class10| [PAGE10](https://baraarami.github.io/code-201_READING-NOTE/class-10)|  
-Class11|[PAGE11]| 
+Class11| [PAGE11](https://baraarami.github.io/code-201_READING-NOTE/class-11-Audio%2C%20Video%2C%20Images)| 
 Class12|[PAGE12]| 
 Class13|[PAGE13]| 
 Class14|[PAGE14]| 
