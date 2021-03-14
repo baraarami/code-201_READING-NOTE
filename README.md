@@ -32,7 +32,7 @@ Class8 | [PAGE8](https://baraarami.github.io/code-201_READING-NOTE/class-08)|
 Class9 | [PAGE9](https://baraarami.github.io/code-201_READING-NOTE/class-09)|   
 Class10| [PAGE10](https://baraarami.github.io/code-201_READING-NOTE/class-10)|  
 Class11| [PAGE11](https://baraarami.github.io/code-201_READING-NOTE/class-11-Audio%2C%20Video%2C%20Images)| 
-Class12|[PAGE12]| 
+Class12| [PAGE12](https://baraarami.github.io/code-201_READING-NOTE/class-12%20Chart.js%2C%20Canvas)| 
 Class13|[PAGE13]| 
 Class14|[PAGE14]| 
 Class15|[PAGE15]|
