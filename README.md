@@ -34,7 +34,7 @@ Class10| [PAGE10](https://baraarami.github.io/code-201_READING-NOTE/class-10)|
 Class11| [PAGE11](https://baraarami.github.io/code-201_READING-NOTE/class-11-Audio%2C%20Video%2C%20Images)| 
 Class12| [PAGE12](https://baraarami.github.io/code-201_READING-NOTE/class-12%20Chart.js%2C%20Canvas)| 
 Class13| [PAGE13](https://baraarami.github.io/code-201_READING-NOTE/Local%20Storage)| 
-Class14|[PAGE14]| 
+Class14| [PAGE14](https://baraarami.github.io/code-201_READING-NOTE/class-13-CSS%20Transforms%2C%20Transitions%2C%20and%20Animations)| 
 Class15|[PAGE15]|
 
 
